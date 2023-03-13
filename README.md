@@ -1,7 +1,7 @@
 ## Hello, I'm Alok Vishwakarma - Senior Software Engineer
 ---
 ### 📃 Summary
-- 9+ years of experience as a software engineer across various industries such as SAAS, E-Commerce & Retail and Banking & Finance 
+- 9+ years of experience as a software engineer working on different backend technologies.
 - Skilled in Agile Scrum Development process
 - Excellent verbal, written, interpersonal, organizational, and time management skills
 - Proficient in Java, JavaScript, and Typescript
