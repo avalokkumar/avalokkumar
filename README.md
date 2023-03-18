@@ -4,7 +4,8 @@
 - 9+ years of experience as a software engineer working on different backend technologies.
 - Skilled in Agile Scrum Development process
 - Excellent verbal, written, interpersonal, organizational, and time management skills
-- Proficient in Java, JavaScript, and Typescript
+- Proficient in Java
+- Beginner in JavaScript, and Typescript
 - Experienced in Spring Boot, Spring MVC, Spring Data JPA, Redis, Spring Cloud, Netflix OSS, Hibernate, Zookeeper, SOLR, Bootstrap, Typescript, NodeJS, MySQL, PostgreSQL, Cassandra, Docker, Kubernetes, Jenkins, AWS SQS, AWS Kinesis, Maven, Splunk, SVN, and Git
 - Knowledge of database management systems, tools, and cloud services such as AWS
 ---
