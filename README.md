@@ -1,13 +1,12 @@
 ## Hello, I'm Alok Vishwakarma - Senior Software Engineer
 ---
 ### 📃 Summary
-- 9+ years of experience as a software engineer working on different backend technologies.
-- Skilled in Agile Scrum Development process
-- Excellent verbal, written, interpersonal, organizational, and time management skills
-- Proficient in Java
-- Beginner in JavaScript, and Typescript
-- Experienced in Spring Boot, Spring MVC, Spring Data JPA, Redis, Spring Cloud, Netflix OSS, Hibernate, Zookeeper, SOLR, Bootstrap, Typescript, NodeJS, MySQL, PostgreSQL, Cassandra, Docker, Kubernetes, Jenkins, AWS SQS, AWS Kinesis, Maven, Splunk, SVN, and Git
-- Knowledge of database management systems, tools, and cloud services such as AWS
+- 9+ years of experience as a software engineer with expertise in different backend technologies and Agile Scrum Development process
+- Strong communication, interpersonal, organizational, and time management skills
+- Proficiency in Java with beginner-level knowledge of JavaScript and Typescript
+- Experienced in various Java-based frameworks and technologies such as Spring Boot, Spring MVC, Spring Data JPA, Redis, Spring Cloud, Netflix OSS, Hibernate, Zookeeper, SOLR, Bootstrap, Typescript, NodeJS, MySQL, PostgreSQL, Cassandra, Docker, Kubernetes, Jenkins, AWS SQS, AWS Kinesis, Maven, Splunk, SVN, and Git
+- Knowledgeable in cloud services such as AWS, as well as containerization technologies like Docker and Kubernetes.
+
 ---
 ### 👋🏼 Let's Connect!
 📥 My DMs are open for anyone who wants to chat about tech, projects or ideas.
