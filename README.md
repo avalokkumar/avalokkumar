@@ -1,4 +1,4 @@
-## Hello, I'm Alok Vishwakarma - Senior Software Engineer
+## Hello, I'm Alok Vishwakarma
 ---
 ### 📃 Summary
 - 9+ years of experience as a software engineer with expertise in different backend technologies and Agile Scrum Development process
