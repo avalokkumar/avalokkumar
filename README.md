@@ -15,6 +15,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-avalokkumar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:avalokkumar@gmail.com)](mailto:avalokkumar@gmail.com)
 [![StackOverflow Badge](https://img.shields.io/badge/-alokvishwakarma-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/3945621/alok-vishwakarma?tab=profile)](https://stackoverflow.com/users/3945621/alok-vishwakarma?tab=profile)
 [![Medium Badge](https://img.shields.io/badge/-avalokkumar-green?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@avalokkumar)](https://medium.com/@avalokkumar)
+[![Youtube Badge](https://img.shields.io/badge/-avalokkumar-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@alok_clayman)](https://www.youtube.com/@alok_clayman)
+
 ---
 ### 💻 Technical Skills
 | Type                   | Skills                                                                                                        |
