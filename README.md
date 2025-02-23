@@ -1,10 +1,14 @@
 ## Hello, I'm Alok Vishwakarma
 ---
-### 📃 Summary
-- Software engineer with expertise in different backend technologies and Agile Scrum Development process
-- Proficiency in Java with beginner-level knowledge of JavaScript and Typescript
-- Experienced in various Java-based frameworks and technologies such as Spring Boot, Spring MVC, Spring Data JPA, Redis, Spring Cloud, Netflix OSS, Hibernate, Zookeeper, SOLR, Bootstrap, Typescript, NodeJS, MySQL, PostgreSQL, Cassandra, Docker, Kubernetes, Jenkins, Maven, Splunk, SVN, and Git
-- Knowledgeable in cloud services such as AWS, as well as containerization technologies like Docker and Kubernetes.
+### **Professional Summary**  
+
+- **Software Engineer** with expertise in backend development using **Java** and **Spring Boot**.  
+- Experienced in **microservices architecture**, **Spring MVC**, **Spring Data JPA**, and **Hibernate**.  
+- Proficient in databases like **MySQL, PostgreSQL, and Cassandra** with caching expertise in **Redis**.  
+- Hands-on experience with **Docker, Kubernetes, Jenkins**, and cloud platforms like **AWS**.  
+- Skilled in **Zookeeper, SOLR, Netflix OSS**, and observability tools like **Splunk**.  
+- Familiar with **JavaScript, TypeScript, Node.js** for full-stack contributions.  
+- Strong understanding of **CI/CD, version control (Git, SVN), and scalable system design**.
 
 ---
 ### 👋🏼 Let's Connect!
