@@ -15,7 +15,7 @@ I'm passionate about writing clean, maintainable code and designing systems that
 
 | Category              | Tech Stack                                                                                                   |
 |-----------------------|--------------------------------------------------------------------------------------------------------------|
-| Languages             | Java, JavaScript, TypeScript                                                                                 |
+| Languages             | Java, JavaScript, TypeScript, python                                                                         |
 | Frameworks & Tools    | Spring Boot, Spring MVC, Hibernate, gRPC, Kafka, Protobuf, Node.js, Angular                                  |
 | Databases             | MySQL, PostgreSQL, Cassandra, Redis                                                                          |
 | Infrastructure        | Docker, Kubernetes, Jenkins, AWS, Ingress, Git, SVN                                                          |
